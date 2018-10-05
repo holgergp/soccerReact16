@@ -1,11 +1,16 @@
 {
-  "main.css": "static/css/main.7fc4c2fa.css",
-  "main.css.map": "static/css/main.7fc4c2fa.css.map",
-  "main.js": "static/js/main.619126e6.js",
-  "main.js.map": "static/js/main.619126e6.js.map",
-  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  "main.css": "/soccerReact16/static/css/main.43df1af0.chunk.css",
+  "main.js": "/soccerReact16/static/js/main.2746c5ff.chunk.js",
+  "main.js.map": "/soccerReact16/static/js/main.2746c5ff.chunk.js.map",
+  "static/css/1.c129c513.chunk.css": "/soccerReact16/static/css/1.c129c513.chunk.css",
+  "static/js/1.fc4b9c0f.chunk.js": "/soccerReact16/static/js/1.fc4b9c0f.chunk.js",
+  "static/js/1.fc4b9c0f.chunk.js.map": "/soccerReact16/static/js/1.fc4b9c0f.chunk.js.map",
+  "runtime~main.js": "/soccerReact16/static/js/runtime~main.393602fe.js",
+  "runtime~main.js.map": "/soccerReact16/static/js/runtime~main.393602fe.js.map",
+  "static/media/bootstrap.css": "/soccerReact16/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/css/1.c129c513.chunk.css.map": "/soccerReact16/static/css/1.c129c513.chunk.css.map",
+  "static/css/main.43df1af0.chunk.css.map": "/soccerReact16/static/css/main.43df1af0.chunk.css.map",
+  "index.html": "/soccerReact16/index.html",
+  "precache-manifest.ffcbce002747f9406d9a468d7b7952cf.js": "/soccerReact16/precache-manifest.ffcbce002747f9406d9a468d7b7952cf.js",
+  "service-worker.js": "/soccerReact16/service-worker.js"
 }
