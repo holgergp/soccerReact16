@@ -1,15 +1,17 @@
 {
-  "main.css": "/soccerReact16/static/css/main.2c2162b5.chunk.css",
-  "main.js": "/soccerReact16/static/js/main.6a8bf7bc.chunk.js",
-  "main.js.map": "/soccerReact16/static/js/main.6a8bf7bc.chunk.js.map",
-  "runtime~main.js": "/soccerReact16/static/js/runtime~main.3d1839b9.js",
-  "runtime~main.js.map": "/soccerReact16/static/js/runtime~main.3d1839b9.js.map",
-  "static/css/2.7a7bfecd.chunk.css": "/soccerReact16/static/css/2.7a7bfecd.chunk.css",
-  "static/js/2.cbfe44ea.chunk.js": "/soccerReact16/static/js/2.cbfe44ea.chunk.js",
-  "static/js/2.cbfe44ea.chunk.js.map": "/soccerReact16/static/js/2.cbfe44ea.chunk.js.map",
-  "index.html": "/soccerReact16/index.html",
-  "precache-manifest.97f5e70838739562f56663f3baf6b483.js": "/soccerReact16/precache-manifest.97f5e70838739562f56663f3baf6b483.js",
-  "service-worker.js": "/soccerReact16/service-worker.js",
-  "static/css/2.7a7bfecd.chunk.css.map": "/soccerReact16/static/css/2.7a7bfecd.chunk.css.map",
-  "static/css/main.2c2162b5.chunk.css.map": "/soccerReact16/static/css/main.2c2162b5.chunk.css.map"
+  "files": {
+    "main.css": "/soccerReact16/static/css/main.42401034.chunk.css",
+    "main.js": "/soccerReact16/static/js/main.4784c1cd.chunk.js",
+    "main.js.map": "/soccerReact16/static/js/main.4784c1cd.chunk.js.map",
+    "runtime~main.js": "/soccerReact16/static/js/runtime~main.31344b28.js",
+    "runtime~main.js.map": "/soccerReact16/static/js/runtime~main.31344b28.js.map",
+    "static/css/2.0f7a873c.chunk.css": "/soccerReact16/static/css/2.0f7a873c.chunk.css",
+    "static/js/2.ef05cd73.chunk.js": "/soccerReact16/static/js/2.ef05cd73.chunk.js",
+    "static/js/2.ef05cd73.chunk.js.map": "/soccerReact16/static/js/2.ef05cd73.chunk.js.map",
+    "index.html": "/soccerReact16/index.html",
+    "precache-manifest.a016db9d4a49672d626ff71185f59c23.js": "/soccerReact16/precache-manifest.a016db9d4a49672d626ff71185f59c23.js",
+    "service-worker.js": "/soccerReact16/service-worker.js",
+    "static/css/2.0f7a873c.chunk.css.map": "/soccerReact16/static/css/2.0f7a873c.chunk.css.map",
+    "static/css/main.42401034.chunk.css.map": "/soccerReact16/static/css/main.42401034.chunk.css.map"
+  }
 }
