@@ -33,7 +33,7 @@
     "lint:fix": "./node_modules/.bin/prettier --single-quote --write \"+(src|cypress)/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
   },
   "devDependencies": {
-    "cypress": "3.3.0",
+    "cypress": "3.5.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-react-hooks": "^1.6.0",
     "eslint-plugin-babel": "^5.0.0",
