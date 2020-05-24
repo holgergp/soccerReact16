@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/soccerReact16/static/css/main.42401034.chunk.css",
-    "main.js": "/soccerReact16/static/js/main.a227603d.chunk.js",
-    "main.js.map": "/soccerReact16/static/js/main.a227603d.chunk.js.map",
-    "runtime-main.js": "/soccerReact16/static/js/runtime-main.ea40d8ac.js",
-    "runtime-main.js.map": "/soccerReact16/static/js/runtime-main.ea40d8ac.js.map",
+    "main.js": "/soccerReact16/static/js/main.2c7ce959.chunk.js",
+    "main.js.map": "/soccerReact16/static/js/main.2c7ce959.chunk.js.map",
+    "runtime-main.js": "/soccerReact16/static/js/runtime-main.6de6272e.js",
+    "runtime-main.js.map": "/soccerReact16/static/js/runtime-main.6de6272e.js.map",
     "static/css/2.d805e148.chunk.css": "/soccerReact16/static/css/2.d805e148.chunk.css",
-    "static/js/2.6f3ebc78.chunk.js": "/soccerReact16/static/js/2.6f3ebc78.chunk.js",
-    "static/js/2.6f3ebc78.chunk.js.map": "/soccerReact16/static/js/2.6f3ebc78.chunk.js.map",
+    "static/js/2.e4229d9d.chunk.js": "/soccerReact16/static/js/2.e4229d9d.chunk.js",
+    "static/js/2.e4229d9d.chunk.js.map": "/soccerReact16/static/js/2.e4229d9d.chunk.js.map",
     "index.html": "/soccerReact16/index.html",
-    "precache-manifest.d8bacc53926dc38aaf3fa3603e5d3974.js": "/soccerReact16/precache-manifest.d8bacc53926dc38aaf3fa3603e5d3974.js",
+    "precache-manifest.00f2933524e2685d97593964685d6020.js": "/soccerReact16/precache-manifest.00f2933524e2685d97593964685d6020.js",
     "service-worker.js": "/soccerReact16/service-worker.js",
     "static/css/2.d805e148.chunk.css.map": "/soccerReact16/static/css/2.d805e148.chunk.css.map",
     "static/css/main.42401034.chunk.css.map": "/soccerReact16/static/css/main.42401034.chunk.css.map"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de6272e.js",
+    "static/css/2.d805e148.chunk.css",
+    "static/js/2.e4229d9d.chunk.js",
+    "static/css/main.42401034.chunk.css",
+    "static/js/main.2c7ce959.chunk.js"
+  ]
 }
