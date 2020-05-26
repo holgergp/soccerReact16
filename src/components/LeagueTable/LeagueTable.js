@@ -11,10 +11,28 @@ import { Card, Col } from 'react-bootstrap';
 import { useLocalStorage } from '../../hooks/useLocalStorage';
 
 const LeagueTable = () => {
+  const [initData, setInitData] = useState(SAMPLE_LEAGUE_TABLE);
+
   const [storedState, setStoredState] = useLocalStorage(
     'LEAGUE_TABLE',
-    SAMPLE_LEAGUE_TABLE
+    initData
   );
+
+  useEffect(() => {
+    fetch('https://www.openligadb.de/api/getavailableteams/bl1/2019')
+      .then((response) => response.json())
+      .then((data) => {
+        const initData = data.map((d) => ({
+          name: d.TeamName,
+          id: d.TeamId,
+          editing: true,
+        }));
+        console.log(initData);
+        setInitData(initData);
+        setStoredState(initData);
+      })
+      .catch((e) => {});
+  });
 
   const [positions, setPositions] = useState(storedState);
 
@@ -31,7 +49,9 @@ const LeagueTable = () => {
   };
 
   useEffect(() => {
-    setStoredState(positions);
+    if (positions !== SAMPLE_LEAGUE_TABLE) {
+      setStoredState(positions);
+    }
   });
 
   const positionNodes = positions.map((team, index) => (
