@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e584cdf816f2d3bf36df863a7a44d880",
+    "revision": "68fd3200ae3c95523c35ce62f0bc9917",
     "url": "/soccerReact16/index.html"
   },
   {
-    "revision": "a677a0f314c7fbd05028",
-    "url": "/soccerReact16/static/css/2.d805e148.chunk.css"
+    "revision": "7f5f760f22ead74ecd19",
+    "url": "/soccerReact16/static/css/2.2df6b46e.chunk.css"
   },
   {
     "revision": "98766b3629c5dac788e4",
     "url": "/soccerReact16/static/css/main.42401034.chunk.css"
   },
   {
-    "revision": "a677a0f314c7fbd05028",
+    "revision": "7f5f760f22ead74ecd19",
     "url": "/soccerReact16/static/js/2.e465ccdf.chunk.js"
   },
   {
