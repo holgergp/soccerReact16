@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/soccerReact16/static/css/main.34fbd58d.chunk.css",
-    "main.js": "/soccerReact16/static/js/main.fc603df8.chunk.js",
-    "main.js.map": "/soccerReact16/static/js/main.fc603df8.chunk.js.map",
+    "main.js": "/soccerReact16/static/js/main.dd059131.chunk.js",
+    "main.js.map": "/soccerReact16/static/js/main.dd059131.chunk.js.map",
     "runtime-main.js": "/soccerReact16/static/js/runtime-main.239a0fd1.js",
     "runtime-main.js.map": "/soccerReact16/static/js/runtime-main.239a0fd1.js.map",
     "static/css/2.ef6c0287.chunk.css": "/soccerReact16/static/css/2.ef6c0287.chunk.css",
-    "static/js/2.cd81c59a.chunk.js": "/soccerReact16/static/js/2.cd81c59a.chunk.js",
-    "static/js/2.cd81c59a.chunk.js.map": "/soccerReact16/static/js/2.cd81c59a.chunk.js.map",
+    "static/js/2.5ecfc3b2.chunk.js": "/soccerReact16/static/js/2.5ecfc3b2.chunk.js",
+    "static/js/2.5ecfc3b2.chunk.js.map": "/soccerReact16/static/js/2.5ecfc3b2.chunk.js.map",
     "index.html": "/soccerReact16/index.html",
     "static/css/2.ef6c0287.chunk.css.map": "/soccerReact16/static/css/2.ef6c0287.chunk.css.map",
     "static/css/main.34fbd58d.chunk.css.map": "/soccerReact16/static/css/main.34fbd58d.chunk.css.map",
-    "static/js/2.cd81c59a.chunk.js.LICENSE.txt": "/soccerReact16/static/js/2.cd81c59a.chunk.js.LICENSE.txt"
+    "static/js/2.5ecfc3b2.chunk.js.LICENSE.txt": "/soccerReact16/static/js/2.5ecfc3b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.239a0fd1.js",
     "static/css/2.ef6c0287.chunk.css",
-    "static/js/2.cd81c59a.chunk.js",
+    "static/js/2.5ecfc3b2.chunk.js",
     "static/css/main.34fbd58d.chunk.css",
-    "static/js/main.fc603df8.chunk.js"
+    "static/js/main.dd059131.chunk.js"
   ]
 }
