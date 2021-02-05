@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67f2b89887195710c39bef576758244a",
+    "revision": "920cd1a1c219d1609c528754d6272196",
     "url": "/soccerReact16/index.html"
   },
   {
-    "revision": "43104ef5a046af387ce3",
+    "revision": "85012edc2fa68f5b82c1",
     "url": "/soccerReact16/static/css/2.2df6b46e.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soccerReact16/static/css/main.42401034.chunk.css"
   },
   {
-    "revision": "43104ef5a046af387ce3",
-    "url": "/soccerReact16/static/js/2.38f10f31.chunk.js"
+    "revision": "85012edc2fa68f5b82c1",
+    "url": "/soccerReact16/static/js/2.601781a0.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/soccerReact16/static/js/2.38f10f31.chunk.js.LICENSE.txt"
+    "url": "/soccerReact16/static/js/2.601781a0.chunk.js.LICENSE.txt"
   },
   {
     "revision": "98766b3629c5dac788e4",
