@@ -4,19 +4,19 @@
   "private": true,
   "homepage": "https://holgergp.github.io/soccerReact16",
   "dependencies": {
-    "bootstrap": "^4.3.0",
+    "bootstrap": "^4.6.0",
     "enzyme": "^3.6.0",
-    "enzyme-adapter-react-16": "^1.5.0",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.9",
-    "prettier": "^2.0.5",
-    "react": "^16.8.6",
-    "react-bootstrap": "^1.0.0-beta.6",
-    "react-contenteditable": "^3.0.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "husky": "^4.3.8",
+    "prettier": "^2.2.1",
+    "lint-staged": "^10.5.4",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.3",
+    "react-contenteditable": "^3.3.5",
     "react-dnd": "^11.1.3",
     "react-dnd-html5-backend": "^11.1.3",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.4.1"
+    "react-scripts": "4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,16 +32,16 @@
     "lint:fix": "./node_modules/.bin/prettier --single-quote --write \"+(src|cypress)/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
   },
   "devDependencies": {
-    "cypress": "4.7.0",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-plugin-babel": "^5.0.0",
-    "eslint-plugin-cypress": "^2.11.1",
+    "cypress": "6.4.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-cypress": "^2.11.2",
     "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-jest": "^23.13.2",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.4.0",
-    "eslint-plugin-react-hooks": "^4.0.4",
-    "gh-pages": "^3.0.0"
+    "eslint-plugin-jest": "^24.1.3",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "gh-pages": "^3.1.0"
   },
   "husky": {
     "hooks": {
@@ -50,8 +50,7 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
-      "prettier --single-quote --write",
-      "git add"
+      "prettier --single-quote --write"
     ]
   },
   "jest": {
