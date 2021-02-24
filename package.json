@@ -16,7 +16,7 @@
     "react-dnd": "^13.1.0",
     "react-dnd-html5-backend": "^12.1.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "4.0.2"
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
