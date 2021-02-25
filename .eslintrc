@@ -237,10 +237,11 @@
       }
     ],
     "no-console": [
-      "warn",
+      "error",
       {
         "allow": [
-          "info"
+          "error",
+          "warn"
         ]
       }
     ]
