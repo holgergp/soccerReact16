@@ -7,7 +7,7 @@ const getValue = (key, initialValue) => {
   } catch (error) {
     // If error also return initialValue
     console.error(error);
-       return initialValue;
+         return initialValue;
   }
 };
 
