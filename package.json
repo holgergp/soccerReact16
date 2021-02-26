@@ -9,7 +9,6 @@
     "enzyme-adapter-react-16": "^1.15.6",
     "husky": "^5.1.1",
     "prettier": "^2.2.1",
-    "lint-staged": "^10.5.4",
     "react": "^16.14.0",
     "react-bootstrap": "^1.5.0",
     "react-contenteditable": "^3.3.5",
@@ -32,7 +31,8 @@
     "lint": "node_modules/.bin/eslint ./ --ext .js,.jsx",
     "lint:fix": "./node_modules/.bin/prettier --single-quote --write \"+(src|cypress)/**/*.{js,jsx,json,css,scss,md}\"",
     "prettier-check": "prettier --single-quote --check \"+(src|cypress)/**/*.{js,jsx,json,css,scss,md}\"",
-    "check": "run-s prettier-check lint test"
+    "check": "run-s prettier-check lint test",
+    "postinstall": "husky install"
   },
   "devDependencies": {
     "cypress": "6.5.0",
@@ -44,6 +44,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "lint-staged": "^10.5.4",
     "gh-pages": "^3.1.0"
   },
   "husky": {
