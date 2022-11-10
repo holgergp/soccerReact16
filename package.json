@@ -34,7 +34,7 @@
     "postinstall": "husky install"
   },
   "devDependencies": {
-    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.5",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "cypress": "9.1.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-babel": "^5.3.1",
